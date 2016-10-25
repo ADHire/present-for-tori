@@ -2,34 +2,6 @@
   color: pink;
 }
 
-/* I could have made 3 variables with the same nonsense repeating itself...but... */
-
-/*.blue {
-  width: 50px;
-  height: 50px;
-  -ms-transform: rotate(20deg);
-  -webkit-transform: rotate(20deg);
-  transform: rotate(20deg);
-}
-
-.yellow {
-  width: 50px;
-  height: 50px;
-  -ms-transform: rotate(20deg);
-  -webkit-transform: rotate(20deg);
-  transform: rotate(20deg);
-}
-
-.red {
-  width: 50px;
-  height: 50px;
-  -ms-transform: rotate(20deg);
-  -webkit-transform: rotate(20deg);
-  transform: rotate(20deg);
-}*/
-
-
-/* This is way more clean, efficient, and makes your code way easier to read/edit */
 .meow {
   font-size: 100px;
 }
